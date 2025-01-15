@@ -16,7 +16,7 @@ export default function RootLayout({
       <body>
         <header className="bg-gray-800 text-white p-4">
           <div className="container mx-auto">
-            <h1 className="text-xl font-bold">50 Sites in 50 Days</h1>
+            <h1 className="text-xl font-bold">50 Projects in 50 Days</h1>
           </div>
         </header>
         <main>{children}</main>
